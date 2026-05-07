@@ -14,6 +14,10 @@
 - tạo web profile cá nhân
 - thêm avatar, button, style
 
+## Day 3
+
+-
+
 ## demo
 
 - chạy bằng line Server
